@@ -8,9 +8,13 @@
 
 这里提供三维天然码的码表文件。
 
-cin格式可以用于[香草输入法](http://openvanilla.org)
+cin格式可以用于Mac上的[香草输入法](http://openvanilla.org)
 
-lime格式可以用于[柠檬输入法](https://code.google.com/p/limeime/)
+lime格式可以用于Android上的[柠檬输入法](https://code.google.com/p/limeime/)
 
-scim格式可以用于[SCIM](http://sourceforge.net/projects/scim/)或者[iBus](https://code.google.com/p/ibus/)
+scim格式可以用于Linux上的[SCIM](http://sourceforge.net/projects/scim/)或者[iBus](https://code.google.com/p/ibus/)
+
+# 免责声明
+
+三维天然码码表受中国专利法保护，专利号 95100877.3，请不要用于商业用途。
 
