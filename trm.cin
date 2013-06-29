@@ -1,8 +1,8 @@
 %gen_inp
 %ename TianRanMa
-%cname 天然码25
-%tcname 天然碼25
-%scname 天然码25
+%cname 天然码26
+%tcname 天然碼26
+%scname 天然码26
 %encoding UTF-8
 %selkey 123456789
 %endkey ,<.>/?;:'"[]\`~!^&()_
@@ -8078,8 +8078,8 @@ _ ——
 3mt2 滑行
 3mt2 学科
 3mt9 滑稽
-3mtb 沉重
 3mtb 觉得
+3mtb 沉重
 3mtb 深重
 3mte 滑雪
 3mtj 法定程序
@@ -8526,8 +8526,8 @@ _ ——
 3rhn 汉英
 3ri5 汉语
 3rih 汉族
-3rit 测评
 3rit 测试
+3rit 测评
 3rjx 浇水
 3rk 浇
 3rkb 测算
@@ -15781,8 +15781,8 @@ _ ——
 8c1x 楩
 8c3 栎
 8c6k 整体效益
-8c7o 柜架
 8c7o 框架
+8c7o 柜架
 8c8c 框框
 8cbr 椻
 8cc 柜
@@ -16715,7 +16715,6 @@ _ ——
 8nk 椇
 8nk6 岔道
 8nk7 橳
-8nk8 分箱
 8nk8 机箱
 8nkb 分配
 8nkd 颁奖
@@ -19140,8 +19139,8 @@ aui4 会谈
 auia 会诊
 auit 会话
 auiv 会说
-auix 会计
 auix 会议
+auix 会计
 auk1 会长
 aukn 会前
 aum1 会同
@@ -20003,6 +20002,7 @@ bb21 睅
 bb21 日刊
 bb22 日元
 bb2a 睍
+bb3f 晶涛
 bb3k 曝光
 bb3k 日光
 bb3m 日常
@@ -31510,6 +31510,7 @@ gd6m 路旁
 gd77 图书
 gd7c 路边
 gd7o 略加
+gd82 图标
 gd82 路标
 gd8j 图板
 gd8k 图样
@@ -31566,6 +31567,7 @@ gdpp 国务院宗教事务局
 gdpz 国务院副总理
 gdpz 国务院总理
 gdqq 图中
+gdqy 路由
 gdr1 路上
 gdte 略微
 gdtg 路面
@@ -32554,6 +32556,7 @@ gqmf 聘用
 gqmn 團體
 gqnw 团中央
 gqob 團員
+gqoo 路由器
 gqq 
 gqq 囗
 gqr 聩
@@ -32565,6 +32568,7 @@ gqws 聘约
 gqwy 團結
 gqx 聛
 gqy2 聘选
+gqyj 路由表
 gr 取
 gr1d 聚歼
 gr22 困难重重
@@ -36688,6 +36692,7 @@ i43y 谈清
 i44 谈
 i44a 談
 i44m 恋爱
+i44r 变数
 i44r 谈妥
 i44y 变黑
 i45k 褱
@@ -39796,8 +39801,8 @@ iy84 请柬
 iy88 市场分析
 iy8f 市场机制
 iy8h 主權
-iy8j 刻板
 iy8j 主板
+iy8j 刻板
 iy8k 褻
 iy8n 主机
 iy8r 主权
@@ -44584,6 +44589,7 @@ kenw 愬
 kenx 逆风
 keny 塑
 ket2 逆行
+ketb 筆電
 ketm 篅
 keto 兼程
 ketx 逆转
@@ -44933,6 +44939,7 @@ khzz 瓶子
 ki 筑
 ki13 北京大学
 ki1h 长方形
+ki1n 筆記型電腦
 ki2 笇
 ki58 簇新
 ki5r 北京站
@@ -48627,8 +48634,8 @@ mdtm 迥然不同
 mdtx 客车
 mdtx 客轮
 mdtx 宛转
-mdvp 客房
 mdvp 客户
+mdvp 客房
 mdwf 客套
 mdxo 内外有别
 mdzb 字处理
@@ -50013,12 +50020,13 @@ mv2k 阅览
 mv2w 弹头
 mv3a 弹奏
 mv3m 窑洞
+mv5e 客户端
 mv5n 用户意见
 mv7j 弹力
 mv8v 阐述
 mvbn 阐明
-mvbx 阐
 mvbx 弹
+mvbx 阐
 mveu 弹出
 mvft 弹指
 mvgk 弹跳
@@ -70106,6 +70114,7 @@ x1df 在大多数情况下
 x1df 在大多數情况下
 x1e 犻
 x1ef 土建
+x1ej 登录
 x1ev 土改
 x1fk 女排
 x1fp 登报
@@ -71619,6 +71628,7 @@ xoo8 賷
 xook 喪
 xoox 玁
 xop5 故障
+xopd 克隆
 xopr 嘏
 xopx 故居
 xor 叓
@@ -72302,8 +72312,8 @@ y22a 先天
 y22j 先于
 y22w 先头
 y235 表示满意
-y23a 先秦
 y23a 款
+y23a 先秦
 y23j 选派
 y23j 选手
 y23k 选举
@@ -72375,6 +72385,7 @@ y2i5 赞语
 y2ic 埋头工作
 y2id 先进设备
 y2im 选调
+y2it 选项
 y2it 款项
 y2iv 赞许
 y2iy 先进工作者
@@ -75965,6 +75976,7 @@ znya 超龄
 znyf 超載
 znyj 通盘考虑
 znym 现场
+znyn 现青
 znyp 超声
 znyt 超载
 znyv 超收
