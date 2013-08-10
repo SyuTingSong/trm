@@ -1,8 +1,8 @@
 %gen_inp
 %ename TianRanMa
-%cname 天然码26
-%tcname 天然碼26
-%scname 天然码26
+%cname 天然码27
+%tcname 天然碼27
+%scname 天然码27
 %encoding UTF-8
 %selkey 123456789
 %endkey ,<.>/?;:'"[]\`~!^&()_
@@ -16642,8 +16642,8 @@ _ ——
 8naa 朿
 8naa 朷
 8naa 枂
-8nau 分会
 8nau 机会
+8nau 分会
 8nb1 分量
 8nb8 貧
 8nbi 盆景
@@ -18970,6 +18970,7 @@ apkj 人际关系
 apkl 餆
 apko 饍
 apky 饈
+apl 
 aplv 全局性
 aplv 全民性
 aplv 食性
@@ -23259,6 +23260,7 @@ cmcf 倚官仗势
 cmch 佛像
 cmcx 住宅区
 cmcx 仿宋体
+cmd ⌘
 cmde 倇
 cmdj 体弱多病
 cmec 堅守崗位
@@ -23607,6 +23609,7 @@ cr1 仩
 cr1o 做好事
 cr2 侧
 cr2b 侧重
+cr3r 侦测
 cr6p 侦破
 cr72 侧翼
 cr8b 侦查
@@ -23851,6 +23854,7 @@ ctqr 华贵
 ctqw 優惠
 ctr 货
 ctra 倭
+ctrl ⌃
 ctro 侧重点
 ctrs 代购
 cts4 化驗
@@ -24884,6 +24888,7 @@ deg 鸳
 deg4 鴛
 dei2 怨言
 dekz 怨气
+del ⌫
 delp 怨恨
 denw 鸳鸯
 der 妴
@@ -26075,6 +26080,7 @@ ejr 岅
 ejr1 岸上
 ejs 峨
 ejsb 峩
+ejt ⏏
 ejt1 岸
 ejt8 嵿
 ejtn 出手不凡
@@ -29421,8 +29427,8 @@ fkoo 挑戰
 fkor 長足
 fkou 挑唆
 fkox 撢
-fkpa 拆除
 fkpa 排除
+fkpa 拆除
 fkpa 排队
 fkpk 排隊
 fkpn 拦阻
@@ -37883,9 +37889,9 @@ ihvo 旖
 ihvr 旇
 ihvt 旎
 ihvw 族
+ihvx 放
 ihvx 方针
 ihvx 方針
-ihvx 放
 ihvy 谋生
 ihvy 旌
 ihvz 旊
@@ -41087,6 +41093,7 @@ jcj4 焤
 jcja 底座
 jcja 腐
 jcjh 过度
+jcjl 哥们儿
 jcjp 过瘾
 jcjr 应付自如
 jcjv 所作所为
@@ -42201,6 +42208,7 @@ joca 历史使命
 joch 可供
 joch 历史悠久
 joci 可信
+jocm 哥们
 jocm 历史作用
 jocv 可作
 jod2 入口处
@@ -48270,6 +48278,7 @@ mabl 闪电
 mabp 肉眼
 mabs 容易
 mac 闪
+mac 
 mac8 肉体
 maci 安全保证
 macm 安全保密
@@ -53389,6 +53398,7 @@ opp 唧
 opqu 嚪
 opqx 
 opt 呢
+opt ⌥
 opta 呡
 opuy 喔
 opvt 别開生面
@@ -58188,6 +58198,7 @@ rtlv 双重性
 rtmb 好不容易
 rtmw 媆
 rtn 娳
+rtn ⏎
 rto 姡
 rtr 婑
 rtt 妣
@@ -59050,6 +59061,7 @@ sezz 包子
 sffp 乌托邦
 sfjz 數據處理
 sfk ■
+sft 
 sftt 成正比
 sfv6 成批生产
 sfyy 乌拉圭
@@ -62138,6 +62150,7 @@ tojy 积压
 tojz 程序
 tok1 委员长
 tok4 和氣
+tokb 适配
 toke 石笋
 toke 雪中送炭
 tokf 和善
@@ -62364,8 +62377,8 @@ trqu 魏
 trrm 委婉
 trt2 敌对行动
 trtf 不上不下
-trtg 面对面
 trtg 页面
+trtg 面对面
 trth 不欢而散
 trth 不战不和
 trtn 百战百胜
@@ -65249,6 +65262,7 @@ vbxp 郸
 vbxq 单独
 vby 锂
 vbya 鋰
+vbzn 复现
 vc 锥
 vc13 鎀
 vc1h 锥形
@@ -73814,6 +73828,7 @@ yohx 喜获
 yoi4 造谣
 yoi7 造词
 yoih 遠方
+yoik 靠谱
 yoik 告诉
 yoio 造就
 yoir 告诫
