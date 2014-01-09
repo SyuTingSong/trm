@@ -1,8 +1,8 @@
 %gen_inp
 %ename TianRanMa
-%cname 天然码29
-%tcname 天然碼29
-%scname 天然码29
+%cname 天然码30
+%tcname 天然碼30
+%scname 天然码30
 %encoding UTF-8
 %selkey 123456789
 %endkey ,<.>/?;:'"[]\`~!^&()_
@@ -675,6 +675,7 @@ _ ——
 17td 严加惩处
 17te 更加重要
 17tk 更加重要
+17tm 天马行空
 17tn 一刀切
 17wn 万马奔腾
 17x1 大力士
@@ -2389,7 +2390,6 @@ _ ——
 1sry 更是如此
 1st1 大包干
 1sti 一成不变
-1stm 天马行空
 1sva 未成年人
 1swf 大包大揽
 1swk 大是大非
@@ -29738,6 +29738,7 @@ fn2u 搬动
 fn2u 搬运
 fn2u 挪动
 fn2u 制动
+fn2w 热胀冷缩
 fn3i 牡丹江
 fn3j 挈
 fn3j 招手
