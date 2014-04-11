@@ -1,14 +1,14 @@
 SCIM_Generic_Table_Phrase_Library_TEXT
-VERSION_2_1
+VERSION_2_2
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
 SERIAL_NUMBER = 20100124
-ICON = /usr/share/scim/icons/trm.png
-NAME = TianRanMa2.1
-NAME.zh_CN = 天然码2.1
-NAME.zh_HK = 天然碼2.1
-NAME.zh_TW = 天然碼2.1
+#ICON = /usr/share/scim/icons/trm.png
+NAME = TianRanMa2.2
+NAME.zh_CN = 天然码2.2
+NAME.zh_HK = 天然碼2.2
+NAME.zh_TW = 天然碼2.2
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 AUTHOR = GuangXiN <rek@rek.me>
 STATUS_PROMPT = 中
@@ -30,7 +30,7 @@ MAX_KEY_LENGTH = 4
 SHOW_KEY_PROMPT = FALSE
 AUTO_SELECT = TRUE
 AUTO_WILDCARD = FALSE
-AUTO_COMMIT = TRUE
+AUTO_COMMIT = FALSE
 AUTO_SPLIT = FALSE
 AUTO_FILL = FALSE
 DISCARD_INVALID_KEY = TRUE
@@ -77,6 +77,11 @@ x 十
 y 地
 z 子
 END_CHAR_PROMPTS_DEFINITION
+
+DYNAMIC_ADJUST = TRUE
+
+RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p31+p32;ca4:p11+p21+p31+p41
+
 END_DEFINITION
 
 ### Begin Table data.
@@ -544,7 +549,7 @@ BEGIN_TABLE
 14jh	晋升	187
 14jt	灭顶	72
 14kb	严酷	115
-14kk	亚非	52
+14kk	来着	52
 14lv	恶性	200
 14lv	开发性	12
 14m2	开发费	5

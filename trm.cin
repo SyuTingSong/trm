@@ -1,8 +1,8 @@
 %gen_inp
 %ename TianRanMa
-%cname 天然码30
-%tcname 天然碼30
-%scname 天然码30
+%cname 天然码31
+%tcname 天然碼31
+%scname 天然码31
 %encoding UTF-8
 %selkey 123456789
 %endkey ,<.>/?;:'"[]\`~!^&()_
@@ -16,6 +16,7 @@
 7 七
 8 八
 9 九
+0 〇
 a 人
 b 日
 c 边
@@ -57,6 +58,7 @@ z 乙
 ] ］
 ~ ～
 ! ！
+@ ・
 ^ ……
 & &
 ( （
@@ -94,6 +96,7 @@ _ ——
 ; ；
 : ：
 _ ——
+0 〇
 1 一
 1111 一一
 1112 一来
@@ -6347,8 +6350,8 @@ _ ——
 3e1y 三峡大坝
 3e2a 当天
 3e2b 浓重
-3e2w 当头
 3e2w 汕头
+3e2w 当头
 3e39 浸染
 3e3b 浸湿
 3e3d 心灵深处
@@ -10389,8 +10392,8 @@ _ ——
 4jby 糎
 4jck 買入價
 4jea 焿
-4jeo 煻
 4jeo 糖
+4jeo 煻
 4jex 糠
 4jh4 熫
 4jh4 爊
@@ -10837,8 +10840,8 @@ _ ——
 4r4s 烧灼
 4r4z 发乳
 4r5b 发音
-4r6s 烧碱
 4r6s 数码
+4r6s 烧碱
 4r86 发榜
 4r8t 烧杯
 4r99 数九
@@ -23009,8 +23012,8 @@ cjcj 任何
 cjcj 任凭
 cjcj 俯
 cjd2 何处
-cjd7 侨务
 cjd7 任务
+cjd7 侨务
 cjdw 仍然
 cje 伌
 cjem 傭
@@ -30817,6 +30820,7 @@ fxt8 技術
 fxt8 學術
 fxtb 覺得
 fxtk 摆在面前
+fxto 礐石
 fxtz 捷径
 fxun 技能
 fxvx 指南针
@@ -33477,6 +33481,7 @@ h32u 薄云
 h338 薻
 h33b 藉
 h33d 荡涤
+h33i 黄浦江
 h33j 莎
 h33k 荡漾
 h33k 蕩漾
@@ -40090,6 +40095,7 @@ j1ss 于是
 j1t2 爬行
 j1t2 厉行
 j1tb 病重
+j1tx 摩天轮
 j1vp 病房
 j1vp 厨房
 j1vy 翻来复去
@@ -40450,6 +40456,7 @@ j4wi 血红
 j4wo 血缘
 j4xv 释义
 j4yj 废墟
+j4yx 翻墙
 j4yx 睾
 j4yy 癦
 j4zj 血球
@@ -48145,6 +48152,7 @@ m6 宕
 m63j 强硬派
 m6b 宍
 m6d 窗
+m6d2 窗外
 m6dw 窻
 m6ix 竅
 m6lv 突破性
@@ -50685,6 +50693,7 @@ n7aa 胁从
 n7h2 脑力劳动
 n7hy 脑力劳动者
 n7mn 肋骨
+n7va 风马牛不相及
 n8 朵
 n82 剁
 n85 肹
@@ -52340,6 +52349,7 @@ o7kd 另将
 o7mz 别字
 o7n 别
 o7o 咖
+o7o8 㗎
 o7ok 咖啡
 o7t2 另行
 o7uy 别致
@@ -53797,6 +53807,7 @@ oyoo 叫骂
 oyoo 叫嚣
 oyoo 嘻
 oyos 叫喊
+oyoy 嘻嘻
 oypd 喀麦隆
 oype 叫屈
 oyr 啧
@@ -59076,6 +59087,7 @@ sffp 乌托邦
 sfjz 數據處理
 sfk ■
 sft 
+sfto 驴唇不对马嘴
 sftt 成正比
 sfv6 成批生产
 sfyy 乌拉圭
@@ -62688,6 +62700,7 @@ ttlh 不懂
 ttlh 不惜
 ttlh 不懈
 ttli 不忙
+ttlj T恤
 ttlq 不愧
 ttlv 不悦
 ttlx 不慎
@@ -65895,9 +65908,9 @@ vj 广
 vj1 釪
 vj1a 广大
 vj1l 釽
-vj22 广元
 vj22 广州
 vj22 永远
+vj22 广元
 vj28 钉耙
 vj2w 镢头
 vj31 短斤少两
@@ -73067,6 +73080,7 @@ yd 麦
 yd1f 声名大振
 yd2a 麸
 yd3v 麦浪
+yd6c 麦兜
 ydd 垑
 ydd2 教务处
 ydf 埄
