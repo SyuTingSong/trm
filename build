@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+php -f src/cin.php  > trm.cin
+php -f src/ibus.php > trm.ibus
+php -f src/scim.php > trm.scim
+php -f src/lime.php > trm.lime
+

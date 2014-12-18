@@ -1,12 +1,13 @@
 %gen_inp
-%ename TianRanMa
-%cname 天然码31
-%tcname 天然碼31
-%scname 天然码31
+%ename TianRanMa50
+%cname 天然码50
+%tcname 天然碼50
+%scname 天然码50
 %encoding UTF-8
 %selkey 123456789
 %endkey ,<.>/?;:'"[]\`~!^&()_
 %keyname begin
+0 〇
 1 一
 2 二
 3 三
@@ -16,7 +17,6 @@
 7 七
 8 八
 9 九
-0 〇
 a 人
 b 日
 c 边
@@ -97,6 +97,7 @@ _ ——
 : ：
 _ ——
 0 〇
+0 零
 1 一
 1111 一一
 1112 一来
@@ -16724,6 +16725,7 @@ _ ——
 8nk6 岔道
 8nk7 橳
 8nk8 机箱
+8nk8 分箱
 8nkb 分配
 8nkd 颁奖
 8nkm 分管
@@ -19499,6 +19501,7 @@ b1b 旦
 b1b1 晅
 b1b2 暢
 b1bb 睁开眼睛
+b1bb 睁大眼睛
 b1bi 目眩
 b1bn 申明
 b1by 量
@@ -20265,6 +20268,7 @@ bg7 朂
 bg8 睏
 bga 眲
 bgbg 睏睏
+bgbg 最最
 bgbh 最晚
 bgbx 最早
 bgc 遏
@@ -36062,7 +36066,6 @@ hu2b 薊
 hu2b 蓟
 hu2j 甚至于
 hu3k 茅台酒
-hu3k 茅台酒
 hu44 燄
 hu8d 荾
 hua 萸
@@ -36974,8 +36977,8 @@ i722 詡
 i723 谬
 i723 謬
 i726 謵
-i72a 功夫
 i728 功耗
+i72a 功夫
 i72a 巭
 i733 功耗
 i73c 词汇
@@ -39692,6 +39695,7 @@ ixmi 离弦
 ixmk 这张
 ixmn 文體
 ixmr 文案
+ixmr 议案
 ixms 离家
 ixms 这家
 ixmv 誧
@@ -45283,10 +45287,10 @@ kkzz 半辈子
 kkzz 辈子
 kkzz 普普通通
 kl 兆
-kl81 兆本
 kl1l 兆瓦
 kl2w 兆头
 kl7w 筷
+kl81 兆本
 klao 逃命
 klb2 覜
 klc 逃
@@ -52524,6 +52528,7 @@ obt 哻
 oby 哩
 obyj 嘢
 oc ℃
+oc 唯
 oc11 唯一
 oc3a 鄂伦春
 oc3l 唯心
@@ -53057,7 +53062,6 @@ om3j 中间派
 om3t 零活
 om4y 零點
 om5b 噾
-om5o 中宣部
 om5o 中宣部
 om6i 零碎
 om6m 中间商
@@ -56150,7 +56154,6 @@ qm1o 遇事
 qm2b 蝐
 qm3a 愚蠢
 qm3j 中间派
-qm5o 中宣部
 qm5o 中宣部
 qm6m 中间商
 qm8n 遇刺
@@ -63436,7 +63439,6 @@ txn1 暂且
 txn1 稙
 txn1 徝
 txn3 辀
-txn4 软盘
 txn4 软盘
 txnj 衠
 txnk 稹
@@ -72202,6 +72204,7 @@ xyil 在望
 xyio 在京
 xyix 在这
 xyj1 在于
+xyj1 有志于
 xyja 在座
 xyjk 在乎
 xyjs 在我

@@ -1,26 +1,26 @@
 SCIM_Generic_Table_Phrase_Library_TEXT
-VERSION_2_2
+VERSION_50
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20100124
+SERIAL_NUMBER = 20141218
 #ICON = /usr/share/scim/icons/trm.png
-NAME = TianRanMa2.2
-NAME.zh_CN = 天然码2.2
-NAME.zh_HK = 天然碼2.2
-NAME.zh_TW = 天然碼2.2
+NAME = TianRanMa50
+NAME.zh_CN = 天然码50
+NAME.zh_HK = 天然碼50
+NAME.zh_TW = 天然碼50
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 AUTHOR = GuangXiN <rek@rek.me>
 STATUS_PROMPT = 中
 KEYBOARD_LAYOUT = US_Default
-VALID_INPUT_CHARS = 123456789abcdefghijklmnopqrstuvwxyz
+VALID_INPUT_CHARS = 0123456789abcdefghijklmnopqrstuvwxyz
 ### KEY_END_CHARS =
 SINGLE_WILDCARD_CHAR = 0
 MULTI_WILDCARD_CHAR = *
 SPLIT_KEYS = apostrophe
 COMMIT_KEYS = space
 FORWARD_KEYS = Return
-SELECT_KEYS = 1,2,3,4,5,6,7,8,9
+SELECT_KEYS = 0,1,2,3,4,5,6,7,8,9
 PAGE_UP_KEYS = Page_Up,comma,minus
 PAGE_DOWN_KEYS = Page_Down,period,equal
 MODE_SWITCH_KEYS = Shift+KeyRelease+Shift_L,Shift+KeyRelease+Shift_R
@@ -41,6 +41,7 @@ DEF_FULL_WIDTH_PUNCT = TRUE
 USE_FULL_WIDTH_LETTER = TRUE
 DEF_FULL_WIDTH_LETTER = FALSE
 BEGIN_CHAR_PROMPTS_DEFINITION
+0 〇
 1 一
 2 二
 3 三
@@ -52,30 +53,30 @@ BEGIN_CHAR_PROMPTS_DEFINITION
 9 九
 a 人
 b 日
-c 他
-d 的
-e 要
+c 边
+d 夕
+e 巳
 f 下
-g 国
-h 和
+g 囗
+h 草
 i 工
 j 厂
-k 着
-l 以
+k 竹
+l 心
 m 弓
 n 月
 o 口
 p 尸
 q 中
 r 又
-s 是
-t 不
-u 到
-v 为
+s 马
+t 匕
+u 魚
+v 金
 w 大
 x 十
-y 地
-z 子
+y 土
+z 乙
 END_CHAR_PROMPTS_DEFINITION
 
 DYNAMIC_ADJUST = TRUE
@@ -86,7 +87,9 @@ END_DEFINITION
 
 ### Begin Table data.
 BEGIN_TABLE
-1	一	65535
+0	〇	0
+0	零	0
+1	一	0
 1111	一一	1885
 1112	一来	1659
 1114	一来	1659
@@ -531,8 +534,8 @@ BEGIN_TABLE
 14i2	恶言	0
 14i4	灭迹	23
 14ih	严谨	394
-14ii	大罢工	0
 14ii	来访	445
+14ii	大罢工	0
 14il	灭亡	316
 14io	来京	0
 14iv	来说	9299
@@ -667,6 +670,7 @@ BEGIN_TABLE
 17td	严加惩处	3
 17te	更加重要	0
 17tk	更加重要	0
+17tm	天马行空	0
 17tn	一刀切	17
 17wn	万马奔腾	9
 17x1	大力士	18
@@ -1618,6 +1622,7 @@ BEGIN_TABLE
 1hd2	开外	148
 1hd2	万处	0
 1hd8	万条	0
+1he6	邢岩	0
 1hed	万岁	1334
 1hej	开导	121
 1heu	迈出	256
@@ -1701,9 +1706,9 @@ BEGIN_TABLE
 1hs7	形成	3651
 1ht1	无期徒刑	88
 1hte	刑律	14
-1hti	开幕式	82
-1hti	开往	237
 1hti	形式	3813
+1hti	开往	237
+1hti	开幕式	82
 1htp	天花乱坠	44
 1htx	开车	1216
 1hun	万能	167
@@ -1993,8 +1998,8 @@ BEGIN_TABLE
 1ma	丙	394
 1ma1	两个	24201
 1ma5	天灾人祸	22
-1maa	一家人	576
 1maa	两	65535
+1maa	一家人	576
 1maj	两用人才	0
 1map	邴	0
 1mau	再会	198
@@ -2984,8 +2989,8 @@ BEGIN_TABLE
 2212	覯	0
 2212	觏	5
 2212	进来	6660
-2214	二次开发	14
 2214	进来	6660
+2214	二次开发	14
 2218	顜	0
 221a	远大	232
 221c	遘	3
@@ -3209,6 +3214,7 @@ BEGIN_TABLE
 23mf	未定	223
 23mm	末了	223
 23n2	未见	486
+23nt	云淡风轻	0
 23oo	示波器	6
 23ot	唜	0
 23ox	末叶	38
@@ -6336,8 +6342,8 @@ BEGIN_TABLE
 3e1y	三峡大坝	0
 3e2a	当天	1519
 3e2b	浓重	226
-3e2w	当头	183
 3e2w	汕头	31
+3e2w	当头	183
 3e39	浸染	33
 3e3b	浸湿	73
 3e3d	心灵深处	97
@@ -6801,6 +6807,7 @@ BEGIN_TABLE
 3i3l	鸿毛	15
 3i3p	淤泥	63
 3i3s	鸿沟	94
+3i3t	流汗	0
 3i3v	流浪	976
 3i3v	游泳	979
 3i3x	江湖	1234
@@ -6826,8 +6833,8 @@ BEGIN_TABLE
 3iau	洽谈会	13
 3iau	演讲会	22
 3iax	淬	39
-3ib1	流畅	188
 3ib1	流量	266
+3ib1	流畅	188
 3ib1	注目	499
 3ibb	液晶	34
 3ibn	注明	268
@@ -7487,8 +7494,8 @@ BEGIN_TABLE
 3kih	尖酸刻薄	24
 3kik	光谱	239
 3kil	兴亡	44
-3kio	光亮	801
 3kio	漂亮	5214
+3kio	光亮	801
 3kiq	兴衰	61
 3kj1	沉醉于	41
 3kj3	酒廠	0
@@ -8069,8 +8076,8 @@ BEGIN_TABLE
 3mt2	滑行	126
 3mt2	学科	796
 3mt9	滑稽	724
-3mtb	沉重	2050
 3mtb	觉得	27992
+3mtb	沉重	2050
 3mtb	深重	182
 3mte	滑雪	130
 3mtj	法定程序	6
@@ -8517,8 +8524,8 @@ BEGIN_TABLE
 3rhn	汉英	13
 3ri5	汉语	512
 3rih	汉族	260
-3rit	测评	12
 3rit	测试	1265
+3rit	测评	12
 3rjx	浇水	0
 3rk	浇	740
 3rkb	测算	27
@@ -8539,6 +8546,7 @@ BEGIN_TABLE
 3rrf	汉卡	0
 3rrr	涰	0
 3rrt	汉奸	306
+3rry	洋娃娃	0
 3rsa	测验	176
 3rtf	泪如雨下	55
 3rv	汊	16
@@ -8758,8 +8766,8 @@ BEGIN_TABLE
 3tpb	须眉	33
 3tq3	活動中心	0
 3tr	顺	10979
-3tra	涹	0
 3tra	须	15852
+3tra	涹	0
 3trr	媭	0
 3tsm	溃不成军	0
 3tt	沘	0
@@ -10376,8 +10384,8 @@ BEGIN_TABLE
 4jby	糎	0
 4jck	買入價	0
 4jea	焿	0
-4jeo	煻	0
 4jeo	糖	2688
+4jeo	煻	0
 4jex	糠	126
 4jh4	熫	0
 4jh4	爊	0
@@ -10824,8 +10832,8 @@ BEGIN_TABLE
 4r4s	烧灼	0
 4r4z	发乳	0
 4r5b	发音	306
-4r6s	烧碱	0
 4r6s	数码	63
+4r6s	烧碱	0
 4r86	发榜	23
 4r8t	烧杯	5
 4r99	数九	0
@@ -10860,9 +10868,9 @@ BEGIN_TABLE
 4rfm	发挥	1613
 4rfm	发扬	247
 4rfm	数控	19
+4rfp	数据	4169
 4rfp	发报	48
 4rfp	发掘	213
-4rfp	数据	4169
 4rg4	鵎	0
 4rh1	发散	193
 4rh3	发落	155
@@ -12198,8 +12206,8 @@ BEGIN_TABLE
 5eoo	端口	449
 5epb	端阳	38
 5ero	端点	28
-5etm	褍	0
 5etm	端	13118
+5etm	褍	0
 5eu	袦	0
 5evx	端午	84
 5ezz	裙子	1133
@@ -15772,8 +15780,8 @@ BEGIN_TABLE
 8c1x	楩	0
 8c3	栎	28
 8c6k	整体效益	0
-8c7o	柜架	0
 8c7o	框架	420
+8c7o	柜架	0
 8c8c	框框	77
 8cbr	椻	0
 8cc	柜	2459
@@ -15970,6 +15978,7 @@ BEGIN_TABLE
 8gxo	棝	0
 8gyc	贫困地区	54
 8gzv	椢	0
+8gzz	椰子	0
 8h	横	4778
 8h18	橫	44
 8h18	横	4778
@@ -16446,8 +16455,8 @@ BEGIN_TABLE
 8kyw	標志	0
 8kyx	樣	968
 8kyx	様	0
-8kzz	桃子	32767
 8kzz	样子	8780
+8kzz	桃子	32767
 8kzz	樣子	0
 8l	札	671
 8lff	分以下	0
@@ -16618,8 +16627,8 @@ BEGIN_TABLE
 8n8a	机枪	286
 8n8a	僰	1
 8n8c	机柜	0
-8n8k	分栏	0
 8n8k	分析	4404
+8n8k	分栏	0
 8n8k	栅栏	346
 8n8n	分机	58
 8n8n	棗	26
@@ -16633,8 +16642,8 @@ BEGIN_TABLE
 8naa	朿	0
 8naa	朷	0
 8naa	枂	0
-8nau	分会	84
 8nau	机会	6555
+8nau	分会	84
 8nb1	分量	432
 8nb8	貧	10
 8nbi	盆景	42
@@ -16664,8 +16673,8 @@ BEGIN_TABLE
 8nfb	分担	179
 8nfh	分擔	0
 8nfm	刺探	59
-8nfn	分段	76
 8nfn	机制	1474
+8nfn	分段	76
 8nfr	分摊	31
 8nft	分批	53
 8ng2	刺耳	276
@@ -16706,8 +16715,8 @@ BEGIN_TABLE
 8nk	椇	0
 8nk6	岔道	50
 8nk7	橳	0
-8nk8	分箱	0
 8nk8	机箱	23
+8nk8	分箱	0
 8nkb	分配	1310
 8nkd	颁奖	52
 8nkm	分管	51
@@ -16807,8 +16816,8 @@ BEGIN_TABLE
 8nxr	分支	260
 8ny	坌	16
 8ny3	分步	0
-8nym	分场	25
 8nym	机场	2074
+8nym	分场	25
 8nyx	分歧	564
 8nyx	盆地	106
 8nyy	盆地	106
@@ -18962,6 +18971,7 @@ apkj	人际关系	101
 apkl	餆	0
 apko	饍	0
 apky	饈	0
+apl		0
 aplv	全局性	17
 aplv	全民性	6
 aplv	食性	0
@@ -19131,8 +19141,8 @@ aui4	会谈	819
 auia	会诊	34
 auit	会话	76
 auiv	会说	0
-auix	会计	639
 auix	会议	7510
+auix	会计	639
 auk1	会长	500
 aukn	会前	0
 aum1	会同	469
@@ -19481,12 +19491,12 @@ b1ah	畅饮	66
 b1b	旦	4973
 b1b1	晅	0
 b1b2	暢	13
-b1bb	睁大眼睛	0
 b1bb	睁开眼睛	0
+b1bb	睁大眼睛	0
 b1bi	目眩	138
 b1bn	申明	176
-b1by	目睹	524
 b1by	量	35771
+b1by	目睹	524
 b1c	迧	0
 b1cx	量仪	0
 b1dd	目的	6067
@@ -19995,6 +20005,7 @@ bb21	睅	0
 bb21	日刊	50
 bb22	日元	308
 bb2a	睍	0
+bb3f	晶涛	0
 bb3k	曝光	230
 bb3k	日光	405
 bb3m	日常	855
@@ -20247,6 +20258,7 @@ bg6w	歇息	218
 bg7	朂	0
 bg8	睏	4
 bga	眲	0
+bgbg	睏睏	0
 bgbg	最最	266
 bgbh	最晚	0
 bgbx	最早	825
@@ -21338,8 +21350,8 @@ c1ct	僵化	109
 c1d2	例外	1026
 c1d2	翛	0
 c1d2	例	14852
-c1d3	絛	3
 c1d3	修	17903
+c1d3	絛	3
 c1d4	倐	0
 c1d4	焂	0
 c1d4	儵	0
@@ -21349,8 +21361,8 @@ c1d8	條	199
 c1de	翛	0
 c1dg	偹	0
 c1dk	鎥	0
-c1dn	脩	5
 c1dn	例	14852
+c1dn	脩	5
 c1du	鯈	0
 c1dv	倏	395
 c1dw	俨然	308
@@ -22204,6 +22216,7 @@ cci4	僬	0
 cci8	集体主义思想	0
 ccih	監護	0
 ccil	仰望	397
+ccim	低调	0
 ccim	儁	1
 cciv	他说	14477
 ccix	催化剂	45
@@ -22684,8 +22697,8 @@ ci5m	体育竞赛	3
 ci5m	体育新闻	9
 ci5o	化工部	4
 ci6j	停产	62
-ci6w	停息	83
 ci6w	信息	5726
+ci6w	停息	83
 ci6x	仿效	73
 ci6y	偃旗息鼓	21
 ci72	停办	22
@@ -22696,8 +22709,8 @@ ci8	集	17022
 ci81	修订本	6
 ci8a	進來	0
 ci8n	停机	116
-ci8o	信赖	333
 ci8o	依赖	935
+ci8o	信赖	333
 ci8o	依賴	0
 ci8r	集权	60
 cia	隹	7
@@ -22995,8 +23008,8 @@ cjcj	任何	15410
 cjcj	任凭	304
 cjcj	俯	1526
 cjd2	何处	1386
-cjd7	侨务	16
 cjd7	任务	3123
+cjd7	侨务	16
 cjdw	仍然	6445
 cje	伌	0
 cjem	傭	2
@@ -23252,6 +23265,7 @@ cmcf	倚官仗势	0
 cmch	佛像	218
 cmcx	住宅区	87
 cmcx	仿宋体	12
+cmd	⌘	0
 cmde	倇	0
 cmdj	体弱多病	0
 cmec	堅守崗位	0
@@ -23600,6 +23614,7 @@ cr1	仩	0
 cr1o	做好事	57
 cr2	侧	4377
 cr2b	侧重	70
+cr3r	侦测	0
 cr6p	侦破	103
 cr72	侧翼	26
 cr8b	侦查	230
@@ -23844,6 +23859,7 @@ ctqr	华贵	103
 ctqw	優惠	0
 ctr	货	4739
 ctra	倭	184
+ctrl	⌃	0
 ctro	侧重点	19
 ctrs	代购	5
 cts4	化驗	0
@@ -24234,8 +24250,8 @@ cx88	做梦	896
 cx8a	体检	91
 cx8b	他想	0
 cx8d	体格	130
-cx8n	传真机	34
 cx8n	区分	541
+cx8n	传真机	34
 cxa	什	65535
 cxaa	他人	2431
 cxaa	做人	676
@@ -24321,6 +24337,7 @@ cxn	侑	8
 cxn1	值	14204
 cxna	伂	0
 cxnk	傎	0
+cxnn	欧朋	0
 cxnr	殴	330
 cxnu	区县	19
 cxo	估	3273
@@ -24876,6 +24893,7 @@ deg	鸳	341
 deg4	鴛	1
 dei2	怨言	118
 dekz	怨气	127
+del	⌫	0
 delp	怨恨	367
 denw	鸳鸯	286
 der	妴	0
@@ -25994,9 +26012,9 @@ ejbv	群星	57
 ejbx	嶭	0
 ejbx	辥	0
 ejbz	孼	0
-ejc8	出厂价格	0
-ejc8	导体	419
 ejc8	群体	478
+ejc8	导体	419
+ejc8	出厂价格	0
 ejca	出厂价	4
 ejch	录像	408
 ejci	嵟	0
@@ -26056,8 +26074,8 @@ ejo4	焄	0
 ejo8	頵	0
 ejob	岢	2
 ejoe	帬	0
-ejof	羣	1
 ejof	群	14553
+ejof	羣	1
 ejok	裠	0
 ejoo	出入口	22
 ejop	郡	715
@@ -26067,6 +26085,7 @@ ejr	岅	0
 ejr1	岸上	448
 ejs	峨	193
 ejsb	峩	0
+ejt	⏏	0
 ejt1	岸	9657
 ejt8	嵿	0
 ejtn	出手不凡	0
@@ -27745,8 +27764,8 @@ fb21	軒	22
 fb21	捍	428
 fb21	摄影师	139
 fb21	提干	15
-fb23	揭示	380
 fb23	提示	788
+fb23	揭示	380
 fb2b	轟動	0
 fb2b	輕重	0
 fb2b	轉動	0
@@ -28568,8 +28587,8 @@ ffyb	拥护者	0
 ffyj	下表	0
 ffyk	下達	0
 ffym	下场	385
-ffyt	打擊報復	0
 ffyt	下载	633
+ffyt	打擊報復	0
 ffyu	下去	11518
 ffyv	豐收	0
 ffz2	下班	981
@@ -28898,8 +28917,8 @@ fim2	撤完	0
 fim2	抗寒	4
 fim4	抗灾	13
 fimb	探讨问题	16
-fimf	撤軍	0
 fimf	搞定	304
+fimf	撤軍	0
 fimn	抗體	0
 fims	批评家	135
 fimt	撤军	305
@@ -28909,9 +28928,9 @@ fio3	掠	1417
 fiob	提高單位面積産量	0
 fioj	揨	0
 fiok	攘	510
-fioo	摇旗呐喊	25
 fioo	搞	8941
 fioo	犒	52
+fioo	摇旗呐喊	25
 fiox	撴	0
 fiox	犜	0
 fioz	犉	0
@@ -29413,8 +29432,8 @@ fkoo	挑戰	0
 fkor	長足	0
 fkou	挑唆	19
 fkox	撢	4
-fkpa	拆除	112
 fkpa	排除	823
+fkpa	拆除	112
 fkpa	排队	347
 fkpk	排隊	0
 fkpn	拦阻	81
@@ -29718,6 +29737,7 @@ fn2u	搬动	45
 fn2u	搬运	220
 fn2u	挪动	188
 fn2u	制动	62
+fn2w	热胀冷缩	0
 fn3i	牡丹江	13
 fn3j	挈	28
 fn3j	招手	416
@@ -30796,6 +30816,7 @@ fxt8	技術	0
 fxt8	學術	0
 fxtb	覺得	0
 fxtk	摆在面前	0
+fxto	礐石	0
 fxtz	捷径	77
 fxun	技能	142
 fxvx	指南针	43
@@ -30972,6 +30993,7 @@ fyor	撷	63
 fyoy	擡	0
 fypr	扯皮	27
 fyqq	正中	480
+fyrn	正则	0
 fyro	特点	1374
 fyro	正点	45
 fyro	正如	1871
@@ -31501,6 +31523,7 @@ gd6m	路旁	353
 gd77	图书	1909
 gd7c	路边	1044
 gd7o	略加	57
+gd82	图标	0
 gd82	路标	72
 gd8j	图板	4
 gd8k	图样	132
@@ -31557,6 +31580,7 @@ gdpp	国务院宗教事务局	0
 gdpz	国务院副总理	0
 gdpz	国务院总理	0
 gdqq	图中	0
+gdqy	路由	0
 gdr1	路上	6068
 gdte	略微	271
 gdtg	路面	269
@@ -32546,6 +32570,7 @@ gqmf	聘用	44
 gqmn	團體	0
 gqnw	团中央	74
 gqob	團員	0
+gqoo	路由器	0
 gqq		0
 gqq	囗	295
 gqr	聩	38
@@ -32557,6 +32582,7 @@ gqws	聘约	2
 gqwy	團結	0
 gqx	聛	1
 gqy2	聘选	0
+gqyj	路由表	0
 gr	取	25879
 gr1d	聚歼	0
 gr22	困难重重	0
@@ -33241,6 +33267,7 @@ h25m	劳动竞赛	0
 h25m	劳动新闻	0
 h25o	劳动部	15
 h25o	某部	100
+h25r	基站	0
 h25v	劳动部门	0
 h268	基礎	0
 h26e	基础	4833
@@ -33332,8 +33359,8 @@ h2it	某项	34
 h2iv	欺诈	91
 h2ix	斯文	312
 h2j	芋	117
-h2j1	甘于	58
 h2j1	基于	1192
+h2j1	甘于	58
 h2j6	甘愿	147
 h2ja	基座	25
 h2jl	芜	648
@@ -33356,9 +33383,9 @@ h2ki	諅	0
 h2kj	尠	0
 h2kk	斯	41803
 h2kl	甚	18832
-h2kn	剘	0
-h2kn	朞	0
 h2kn	期	32819
+h2kn	朞	0
+h2kn	剘	0
 h2kq	蜝	0
 h2kq	蟴	0
 h2kv	戡	19
@@ -33391,8 +33418,8 @@ h2pq	期間	0
 h2pq	其間	0
 h2pv	基層	0
 h2pv	劳动卫生	0
-h2qq	期中	0
 h2qq	其中	9188
+h2qq	期中	0
 h2ri	劳资双方	0
 h2ro	基点	59
 h2s	芌	0
@@ -33452,6 +33479,7 @@ h32u	薄云	0
 h338	薻	0
 h33b	藉	1173
 h33d	荡涤	18
+h33i	黄浦江	0
 h33j	莎	2915
 h33k	荡漾	415
 h33k	蕩漾	0
@@ -34149,6 +34177,7 @@ hbyj	蒔	0
 hbym	草场	0
 hbyt	草坪	515
 hbyu	遭劫	22
+hbyw	象素	0
 hbyx	草地	994
 hbyx	墓地	230
 hbyy	草地	994
@@ -35189,6 +35218,7 @@ hmjv	觩	0
 hmjx	解救	154
 hmjx	营救	146
 hmjx	荥	10
+hmjy	解压	0
 hmk	觧	0
 hmk1	营长	180
 hmk2	营养	441
@@ -35742,6 +35772,7 @@ hr11	世上无难事	0
 hr2	荝	0
 hr21	世上无难事	0
 hr2b	负重	139
+hr2h	黄嬿姿	0
 hr2j	负于	40
 hr4r	负数	84
 hr8a	负极	4
@@ -36025,7 +36056,6 @@ hu2	萖	0
 hu2b	薊	0
 hu2b	蓟	49
 hu2j	甚至于	174
-hu3k	茅台酒	0
 hu3k	茅台酒	0
 hu44	燄	2
 hu8d	荾	0
@@ -36678,6 +36708,7 @@ i43y	谈清	13
 i44	谈	25948
 i44a	談	167
 i44m	恋爱	2156
+i44r	变数	0
 i44r	谈妥	37
 i44y	变黑	56
 i45k	褱	0
@@ -36930,12 +36961,12 @@ i6vt	工商银行	29
 i6x	詨	0
 i6z	諻	0
 i7	功	22773
-i71o	詞	54
 i71o	词	9289
-i722	詡	2
+i71o	詞	54
 i722	诩	127
-i723	謬	53
+i722	詡	2
 i723	谬	1102
+i723	謬	53
 i726	謵	0
 i728	功耗	0
 i72a	功夫	1096
@@ -37868,9 +37899,9 @@ ihvo	旖	209
 ihvr	旇	0
 ihvt	旎	202
 ihvw	族	12312
+ihvx	放	48126
 ihvx	方针	1227
 ihvx	方針	0
-ihvx	放	48126
 ihvy	谋生	222
 ihvy	旌	138
 ihvz	旊	0
@@ -37943,8 +37974,8 @@ iibn	讲文明	0
 iicf	工件	1
 iici	论文集	23
 iict	访华	140
-iicv	工伤	21
 iicv	工作	22946
+iicv	工伤	21
 iicx	工区	6
 iidb	巧立名目	8
 iidd	许许多多	326
@@ -38050,10 +38081,10 @@ iixm	謧	0
 iixr	高高在上	89
 iixr	工友	57
 iiy3	讓步	0
+iiya	该	41295
+iiya	註	155
 iiya	工龄	22
 iiya	該	317
-iiya	註	155
-iiya	该	41295
 iiyb	设计者	86
 iiyo	诬告	42
 iiyx	工地	337
@@ -38533,8 +38564,8 @@ imv3	刻骨铭心	163
 imx6	说实在的	0
 imxd	说实在的	0
 imy3	调频	22
-imyo	調	247
 imyo	调	25475
+imyo	調	247
 imzb	调理	87
 imzz	调子	423
 in	讥	550
@@ -38567,8 +38598,8 @@ inih	高风亮节	23
 inih	设施	995
 inik	设立	630
 inin	讥讽	221
-inix	認證	0
 inix	设计	3462
+inix	認證	0
 inja	刻舟求剑	1
 injo	認可	0
 injq	諷	9
@@ -38581,8 +38612,8 @@ inlh	恐慌	391
 inln	恐惧	1913
 inlx	恐怖	3965
 inmb	设宴	49
-inmf	認定	0
 inmf	设定	3792
+inmf	認定	0
 inmo	諣	0
 ino	诏	640
 inoa	詔	3
@@ -38822,9 +38853,9 @@ ioml	亳	21
 iomn	髚	0
 iomn	亮	18957
 iomn	膏	820
+iomo	高	65535
 iomo	高强	134
 iomo	髙	0
-iomo	高	65535
 iomp	鄗	0
 iomr	毫安	0
 iomr	毃	0
@@ -39174,6 +39205,7 @@ itia	评论	2138
 itib	工程项目	26
 itik	評議	0
 itim	谐调	36
+itit	试试	0
 itiv	话说	3043
 itiv	评说	101
 itiv	試	107
@@ -39412,8 +39444,8 @@ ivw2	京广线	11
 ivwa	高年级	0
 ivwk	袠	2
 ivx	攻	9224
-ivxa	許	377
 ivxa	许	47178
+ivxa	許	377
 ivxf	言之有物	9
 ivxo	攻克	166
 ivxz	言之有理	38
@@ -39508,6 +39540,7 @@ ix2p	言犹未尽	0
 ix3	彣	0
 ix3a	齐奏	12
 ix3c	文汇	0
+ix3k	刘沂	0
 ix3l	离心	86
 ix3l	齐心	70
 ix3m	文学	7328
@@ -39533,12 +39566,12 @@ ix7f	变本加厉	71
 ix7j	巧克力	596
 ix7j	变本加厉	71
 ix7w	读	19062
-ix81	读本	72
 ix81	文本	766
+ix81	读本	72
 ix83	文档	970
 ix86	离校	54
-ix8k	市直机关	0
 ix8k	这样	49557
+ix8k	市直机关	0
 ix8n	计分	17
 ix8o	齐整	174
 ixa	計	172
@@ -39568,8 +39601,8 @@ ixc8	这份	1498
 ixca	计价	0
 ixca	议价	12
 ixcc	放在优先地位	0
-ixcf	计件	8
 ixcf	文件	57422
+ixcf	计件	8
 ixcf	这件	4523
 ixci	齐集	30
 ixci	文集	375
@@ -39652,6 +39685,7 @@ ixmg	證實	0
 ixmi	离弦	16
 ixmk	这张	1129
 ixmn	文體	0
+ixmr	文案	0
 ixmr	议案	351
 ixms	离家	437
 ixms	这家	1340
@@ -39784,8 +39818,8 @@ iy84	请柬	61
 iy88	市场分析	0
 iy8f	市场机制	0
 iy8h	主權	0
-iy8j	刻板	102
 iy8j	主板	110
+iy8j	刻板	102
 iy8k	褻	4
 iy8n	主机	1133
 iy8r	主权	1526
@@ -40054,10 +40088,12 @@ j1qp	虎頭蛇尾	0
 j1qv	爬虫	0
 j1rc	疾恶如仇	3
 j1ro	厌战	7
+j1ry	原来如此	0
 j1ss	于是	14025
 j1t2	爬行	132
 j1t2	厉行	15
 j1tb	病重	103
+j1tx	摩天轮	0
 j1vp	病房	518
 j1vp	厨房	1823
 j1vy	翻来复去	46
@@ -40418,6 +40454,7 @@ j4wi	血红	292
 j4wo	血缘	135
 j4xv	释义	20
 j4yj	废墟	367
+j4yx	翻墙	0
 j4yx	睾	75
 j4yy	癦	0
 j4zj	血球	23
@@ -40965,6 +41002,7 @@ jby2	自选	81
 jbye	歸	102
 jbyo	自造	33
 jbyp	鄽	0
+jbyr	自责	0
 jbys	白城	4
 jbyy	自封	67
 jbyy	廛	13
@@ -41070,6 +41108,7 @@ jcj4	焤	0
 jcja	底座	41
 jcja	腐	3240
 jcjh	过度	411
+jcjl	哥们儿	0
 jcjp	过瘾	185
 jcjr	应付自如	16
 jcjv	所作所为	180
@@ -42184,6 +42223,7 @@ joca	历史使命	43
 joch	可供	0
 joch	历史悠久	55
 joci	可信	418
+jocm	哥们	0
 jocm	历史作用	5
 jocv	可作	0
 jod2	入口处	111
@@ -43917,6 +43957,7 @@ k6oo	等产品	0
 k6p3	首尾	66
 k6pq	首届	97
 k6rv	馘	6
+k6tr	首页	0
 k6tx	道德	2442
 k6tx	首轮	44
 k6uy	導致	0
@@ -44490,7 +44531,6 @@ kdmf	將軍	0
 kdmt	将军	2584
 kdnn	签名册	5
 kdo	笿	0
-kdoo	等外品	0
 kdoo	奖品	91
 kdrj	将对	0
 kdss	将是	0
@@ -44571,6 +44611,7 @@ kenw	愬	0
 kenx	逆风	114
 keny	塑	1906
 ket2	逆行	32
+ketb	筆電	0
 ketm	篅	0
 keto	兼程	42
 ketx	逆转	141
@@ -44920,6 +44961,7 @@ khzz	瓶子	792
 ki	筑	3105
 ki13	北京大学	406
 ki1h	长方形	185
+ki1n	筆記型電腦	0
 ki2	笇	0
 ki58	簇新	92
 ki5r	北京站	29
@@ -45236,10 +45278,10 @@ kkzz	半辈子	112
 kkzz	辈子	2629
 kkzz	普普通通	124
 kl	兆	1562
-kl81	兆本	0
 kl1l	兆瓦	0
 kl2w	兆头	67
 kl7w	筷	901
+kl81	兆本	0
 klao	逃命	128
 klb2	覜	0
 klc	逃	8441
@@ -45498,8 +45540,8 @@ ko1w	西天	176
 ko1w	筽	0
 ko22	翲	0
 ko22	剽	155
-ko23	彯	0
 ko23	票	7022
+ko23	彯	0
 ko27	勡	0
 ko28	顠	0
 ko2a	筽	0
@@ -46084,6 +46126,7 @@ kwbl	送电	0
 kwbn	关照	344
 kwc	送	20827
 kwcc	忥	0
+kwcf	郑伟	0
 kwci	送信	183
 kwct	送货	48
 kwe	卷	6534
@@ -46963,6 +47006,7 @@ lij1	忙于	217
 likb	惊醒	676
 lil	忙	16292
 lil6	惊惶	156
+lil8	惊悚	0
 lilh	惊慌	496
 lilo	惊愕	287
 lin	忼	0
@@ -47504,8 +47548,8 @@ m13i	弳	0
 m13j	军事法庭	73
 m13j	引渡	479
 m13l	同心	236
-m13m	同党	57
 m13m	同学	6349
+m13m	同党	57
 m13p	军事法院	0
 m14	盄	0
 m141	同业	26
@@ -47728,8 +47772,8 @@ m21o	实事	501
 m21o	完事	205
 m22	完	43470
 m221	实干	75
-m222	冒进	63
 m222	寒	6315
+m222	冒进	63
 m224	鵍	0
 m224	騫	0
 m224	鶱	0
@@ -48107,6 +48151,7 @@ m6	宕	78
 m63j	强硬派	0
 m6b	宍	0
 m6d	窗	18061
+m6d2	窗外	0
 m6dw	窻	0
 m6ix	竅	3
 m6lv	突破性	115
@@ -48250,6 +48295,7 @@ mabl	闪电	472
 mabp	肉眼	170
 mabs	容易	7258
 mac	闪	8088
+mac		0
 mac8	肉体	1445
 maci	安全保证	4
 macm	安全保密	0
@@ -48614,8 +48660,8 @@ mdtm	迥然不同	72
 mdtx	客车	179
 mdtx	客轮	48
 mdtx	宛转	76
-mdvp	客房	185
 mdvp	客户	1532
+mdvp	客房	185
 mdwf	客套	135
 mdxo	内外有别	0
 mdzb	字处理	0
@@ -48748,9 +48794,9 @@ mfio	用熟	0
 mfir	割让	45
 mfit	用项	20
 mfix	用计	162
+mfj1	用于	1991
 mfj1	定于	208
 mfj1	害病	23
-mfj1	用于	1991
 mfjc	用过	0
 mfjf	突击手	4
 mfjf	突擊手	0
@@ -48828,8 +48874,8 @@ mfv6	安排生产	0
 mfv7	定为	542
 mfvb	定单	29
 mfvh	用错	0
-mfvp	用房	0
 mfvp	用户	4689
+mfvp	用房	0
 mfvs	定為	0
 mfvv	定为	542
 mfwa	定级	4
@@ -49234,6 +49280,7 @@ mk68	寱	0
 mk6s	完善的	0
 mk7j	张力	168
 mk87	安装公司	0
+mk8c	张桦	0
 mk8r	审判权	4
 mkam	宾馆	745
 mkdc	同等条件	0
@@ -50000,12 +50047,13 @@ mv2k	阅览	121
 mv2w	弹头	375
 mv3a	弹奏	150
 mv3m	窑洞	259
+mv5e	客户端	0
 mv5n	用户意见	0
 mv7j	弹力	37
 mv8v	阐述	434
 mvbn	阐明	211
-mvbx	阐	785
 mvbx	弹	16857
+mvbx	阐	785
 mveu	弹出	181
 mvft	弹指	65
 mvgk	弹跳	29
@@ -50644,6 +50692,7 @@ n7aa	胁从	12
 n7h2	脑力劳动	48
 n7hy	脑力劳动者	0
 n7mn	肋骨	152
+n7va	风马牛不相及	0
 n8	朵	6377
 n82	剁	233
 n85	肹	0
@@ -51317,9 +51366,9 @@ nno1	月中	599
 nno8	船只	370
 nno8	舰只	0
 nnor	船员	76
+nnpa	删除	1275
 nnpa	船队	149
 nnpa	舰队	773
-nnpa	删除	1275
 nnqq	月中	599
 nnr	股	8598
 nnr1	船上	999
@@ -52192,6 +52241,7 @@ o4m7	嘮	0
 o4md	噯	5
 o4mr	嗳	222
 o4o	唂	0
+o4o4	嘿嘿	0
 o4r	喽	784
 o4ra	哸	0
 o4s4	噅	0
@@ -52277,8 +52327,8 @@ o7a	叻	12
 o7aa	别人	11065
 o7by	别墅	437
 o7cf	另件	0
-o7d2	别处	571
 o7d2	另外	6225
+o7d2	别处	571
 o7dd	别的	8059
 o7do	别名	454
 o7f7	别扭	432
@@ -52298,6 +52348,7 @@ o7kd	另将	0
 o7mz	别字	87
 o7n	别	61595
 o7o	咖	3728
+o7o8	㗎	0
 o7ok	咖啡	3484
 o7t2	另行	39
 o7uy	别致	187
@@ -52467,6 +52518,7 @@ obrr	唱戏	121
 obt	哻	0
 oby	哩	2507
 obyj	嘢	9
+oc	℃	0
 oc	唯	8006
 oc11	唯一	4768
 oc3a	鄂伦春	10
@@ -52577,6 +52629,7 @@ oeys	嚴峻考驗	0
 oezj	吊球	0
 oezt	吊环	14
 of	吓	5438
+of	℉	0
 of1d	吓死	0
 of2x	唞	0
 of3i	中下游	69
@@ -53001,7 +53054,6 @@ om3t	零活	7
 om4y	零點	0
 om5b	噾	0
 om5o	中宣部	76
-om5o	中宣部	76
 om6i	零碎	175
 om6m	中间商	5
 om72	翤	0
@@ -53181,6 +53233,7 @@ oo8r	器械	89
 oo8t	口杯	0
 oo8v	口述	67
 ooa	吅	2
+ooao	哈哈哈	0
 ooaz	口令	746
 oob4	鷤	0
 oob8	戰果	0
@@ -53367,6 +53420,7 @@ opp	唧	478
 opqu	嚪	0
 opqx		0
 opt	呢	45944
+opt	⌥	0
 opta	呡	4
 opuy	喔	1146
 opvt	别開生面	0
@@ -53694,6 +53748,7 @@ oxo	咕	1861
 oxok	囔	309
 oxox	喷嚏	190
 oxoy	喷嘴	11
+oxp1	鄙陋	0
 oxr	吱	1263
 oxtd	喷雾	11
 oxtx	叶轮	5
@@ -53751,6 +53806,7 @@ oyoo	叫骂	99
 oyoo	叫嚣	129
 oyoo	嘻	3035
 oyos	叫喊	511
+oyoy	嘻嘻	0
 oypd	喀麦隆	60
 oype	叫屈	35
 oyr	啧	574
@@ -56090,7 +56146,6 @@ qm2b	蝐	0
 qm3a	愚蠢	1037
 qm3j	中间派	14
 qm5o	中宣部	76
-qm5o	中宣部	76
 qm6m	中间商	5
 qm8n	遇刺	64
 qma	蚋	14
@@ -56599,8 +56654,8 @@ qyg	蝳	0
 qyie	蚌埠市	0
 qyio	由衷	375
 qyiq	由衷	375
-qyj1	由此看来	53
 qyj1	由于	9336
+qyj1	由此看来	53
 qyje	由此可以看出	0
 qyjn	由此可见	185
 qyjv	由此可知	0
@@ -56682,6 +56737,7 @@ r1ar	上饶	0
 r1az	戒严令	22
 r1b1	姮	0
 r1bn	上映	72
+r1c2	上传	0
 r1cg	上一個	0
 r1cj	上任	598
 r1dd	上的	30820
@@ -57739,6 +57795,7 @@ rna7	观念	1962
 rnaa	观众	1398
 rnc3	如胶似漆	41
 rnil	观望	218
+rnix	观斌	0
 rnj8	观摩	75
 rnjf	观看	896
 rnmo	卨	0
@@ -57764,8 +57821,8 @@ ro	占	8106
 ro11	如一	1321
 ro1a	妕	0
 ro1o	战事	301
-ro1v	占卜	73
 ro1v	或	44983
+ro1v	占卜	73
 ro1w	娱	886
 ro1w	惑	3949
 ro2	贶	3
@@ -58165,6 +58222,7 @@ rtlv	双重性	0
 rtmb	好不容易	598
 rtmw	媆	0
 rtn	娳	0
+rtn	⏎	0
 rto	姡	0
 rtr	婑	0
 rtt	妣	34
@@ -59027,6 +59085,8 @@ sezz	包子	394
 sffp	乌托邦	129
 sfjz	數據處理	0
 sfk	■	0
+sft		0
+sfto	驴唇不对马嘴	0
 sftt	成正比	0
 sfv6	成批生产	0
 sfyy	乌拉圭	129
@@ -60878,6 +60938,7 @@ teb1	微量	31
 teb1	需要量	6
 tecc	重要條件	0
 tecf	重要依据	0
+teci	微信	0
 tecm	重要作用	0
 tecw	微伏	0
 ted	秽	434
@@ -60943,6 +61004,7 @@ tetv	利改税	15
 tetz	不翼而飞	42
 tews	重要经验	0
 texn	秉直	1
+texx	微博	0
 teyx	雪地	639
 teyy	雪地	639
 teyz	重要表现	0
@@ -62115,6 +62177,7 @@ tojy	积压	61
 tojz	程序	9031
 tok1	委员长	347
 tok4	和氣	0
+tokb	适配	0
 toke	石笋	0
 toke	雪中送炭	17
 tokf	和善	235
@@ -62341,8 +62404,8 @@ trqu	魏	2871
 trrm	委婉	148
 trt2	敌对行动	0
 trtf	不上不下	15
-trtg	面对面	288
 trtg	页面	535
+trtg	面对面	288
 trth	不欢而散	51
 trth	不战不和	5
 trtn	百战百胜	23
@@ -62636,6 +62699,7 @@ ttlh	不懂	3832
 ttlh	不惜	574
 ttlh	不懈	274
 ttli	不忙	286
+ttlj	T恤	0
 ttlq	不愧	265
 ttlv	不悦	205
 ttlx	不慎	129
@@ -63208,9 +63272,9 @@ txci	暂停	255
 txci	暂住	87
 txcj	连任	140
 txck	轻佻	85
+txct	转化	484
 txct	软化	77
 txct	私有化	21
-txct	转化	484
 txcv	轮作	3
 txcv	轻伤	55
 txcx	辅佐	65
@@ -63366,7 +63430,6 @@ txn1	暂且	194
 txn1	稙	0
 txn1	徝	0
 txn3	辀	0
-txn4	软盘	435
 txn4	软盘	435
 txnj	衠	0
 txnk	稹	3
@@ -64507,6 +64570,7 @@ uzm	鲬	0
 uzma	鯒	0
 uzoo	鱷	3
 uzxr	到现在为止	0
+uzzz	熊孩子	0
 v	为	65535
 v1	丫	3715
 v125	广大干部	0
@@ -65226,6 +65290,7 @@ vbxp	郸	237
 vbxq	单独	1184
 vby	锂	26
 vbya	鋰	0
+vbzn	复现	0
 vc	锥	326
 vc13	鎀	0
 vc1h	锥形	34
@@ -65342,8 +65407,8 @@ veea	銟	0
 veei	鑃	0
 veek	鐉	0
 vef	銉	0
-vefc	鍵	45
 vefc	键	6993
+vefc	鍵	45
 vefn	録製	0
 vegr	録取	0
 veij	鐞	0
@@ -65841,9 +65906,9 @@ vj	广	15199
 vj1	釪	0
 vj1a	广大	1075
 vj1l	釽	0
-vj22	广元	1
 vj22	广州	1235
 vj22	永远	8368
+vj22	广元	1
 vj28	钉耙	0
 vj2w	镢头	0
 vj31	短斤少两	0
@@ -67074,8 +67139,8 @@ vwih	智谋	28
 vwii	短工	38
 vwil	失望	1993
 vwim	失调	71
-vwio	失误	325
 vwio	知识	5668
+vwio	失误	325
 vwit	短评	33
 vwiu	智育	6
 vwix	短文	100
@@ -67317,6 +67382,7 @@ vxux	罈	1
 vxuz	缻	0
 vxvc	逬	0
 vxvm	午门	0
+vxvw	缺失	0
 vxvx	幷	0
 vxvz	甁	0
 vxw2	针线	170
@@ -67352,8 +67418,8 @@ vy5	铐	222
 vy5a	銬	0
 vy5b	生意	1983
 vy61	生硬	205
-vy6j	房地产	149
 vy6j	生产	3770
+vy6j	房地产	149
 vy6w	生息	106
 vy6x	生效	204
 vy7j	铣刀	0
@@ -68067,6 +68133,7 @@ wa6j	综合商店	0
 wa6m	综合研究	0
 wa6q	纪念碑	158
 wa7	紟	0
+wa7j	给力	0
 wa82	纵坐标	9
 wa8h	纵横	443
 waa	纵	4543
@@ -70090,6 +70157,7 @@ x1df	在大多数情况下	0
 x1df	在大多數情况下	0
 x1e	犻	0
 x1ef	土建	13
+x1ej	登录	0
 x1ev	土改	81
 x1fk	女排	13
 x1fp	登报	37
@@ -71603,6 +71671,7 @@ xoo8	賷	0
 xook	喪	40
 xoox	玁	0
 xop5	故障	225
+xopd	克隆	0
 xopr	嘏	5
 xopx	故居	60
 xor	叓	0
@@ -72125,8 +72194,8 @@ xyii	發表談話	0
 xyil	在望	119
 xyio	在京	401
 xyix	在这	26572
-xyj1	有志于	29
 xyj1	在于	3105
+xyj1	有志于	29
 xyja	在座	401
 xyjk	在乎	1838
 xyjs	在我	0
@@ -72287,8 +72356,8 @@ y22a	先天	269
 y22j	先于	102
 y22w	先头	122
 y235	表示满意	0
-y23a	先秦	53
 y23a	款	4532
+y23a	先秦	53
 y23j	选派	43
 y23j	选手	148
 y23k	选举	1132
@@ -72360,6 +72429,7 @@ y2i5	赞语	5
 y2ic	埋头工作	8
 y2id	先进设备	9
 y2im	选调	14
+y2it	选项	0
 y2it	款项	76
 y2iv	赞许	132
 y2iy	先进工作者	23
@@ -73009,6 +73079,7 @@ yd	麦	5305
 yd1f	声名大振	0
 yd2a	麸	6
 yd3v	麦浪	0
+yd6c	麦兜	0
 ydd	垑	0
 ydd2	教务处	49
 ydf	埄	0
@@ -73217,6 +73288,7 @@ yi5o	教育部	293
 yi5p	教育部門	0
 yi5v	教育部门	19
 yi8t	坦诚相待	8
+yi8x	坑爹	0
 yiaa	壞人	0
 yiao	城市人口	0
 yiax	埣	0
@@ -73787,6 +73859,7 @@ yohx	喜获	1
 yoi4	造谣	126
 yoi7	造词	7
 yoih	遠方	0
+yoik	靠谱	0
 yoik	告诉	15752
 yoio	造就	322
 yoir	告诫	278
@@ -73821,11 +73894,11 @@ yokc	壾	0
 yokd	嘉奖	88
 yokf	靠着	0
 yokj	尌	0
+yokk	靠	11555
+yokk	靠着	0
 yokk	鼚	0
 yokk	鼟	0
 yokk	鼘	0
-yokk	靠	11555
-yokk	靠着	0
 yokl	吉兆	29
 yoko	鼛	0
 yoko	囍	0
@@ -73876,8 +73949,8 @@ yor	埙	58
 yorh	喜欢	17388
 yorz	喜好	148
 yos	堟	0
-yos7	告成	114
 yos7	造成	4434
+yos7	告成	114
 yoso	造句	51
 yot	颉	305
 yot2	吉利	265
@@ -74422,8 +74495,8 @@ yv3j	收看	42
 yv3k	增光	14
 yv3k	增辉	0
 yv3v	青年学生	0
-yv4b	收買	0
 yv4b	增	10569
+yv4b	收買	0
 yv4d	收罗	24
 yv4m	收受	185
 yv4r	收发	134
@@ -74936,8 +75009,8 @@ z23r	飞溅	121
 z24r	班数	0
 z25b	玩意	585
 z28a	飛來	0
-z28n	班机	305
 z28n	飞机	6761
+z28n	班机	305
 z28n	起重机	27
 z28o	飞速	188
 z28w	飛機	0
@@ -75032,6 +75105,7 @@ z3c8	璖	0
 z3e	珰	8
 z3fc	珠海特区	0
 z3g2	赴汤蹈火	32
+z3h1	碧海蓝天	0
 z3hd	逊色	104
 z3j	赻	0
 z3j1	逊于	32
@@ -75949,6 +76023,7 @@ znya	超龄	9
 znyf	超載	0
 znyj	通盘考虑	2
 znym	现场	1567
+znyn	现青	0
 znyp	超声	22
 znyt	超载	16
 znyv	超收	3

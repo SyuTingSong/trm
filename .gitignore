@@ -1,0 +1,11 @@
+*.log
+_notes
+*.komodoproject
+*.bak
+.project
+.DS_Store
+nbproject
+.idea
+rsync.sh
+.settings
+
