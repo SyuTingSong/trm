@@ -4,7 +4,7 @@ VERSION_50
 BEGIN_DEFINITION
 LICENSE = GPL
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141218
+SERIAL_NUMBER = 20141220
 ICON = ibus-table.svg
 NAME = TianRanMa50
 NAME.zh_CN = 天然码50
@@ -29163,6 +29163,7 @@ fjrv	打败	513
 fjry	打赌	202
 fjrz	打好	168
 fjrz	抓好	157
+fjse	打包	0
 fjt	托	8334
 fjt1	摣	0
 fjt2	按兵不动	30
@@ -67140,6 +67141,7 @@ vwj4	知悉	46
 vwja	鉍	0
 vwjc	知底	51
 vwjf	失手	133
+vwjk	知乎	0
 vwjo	矯	3
 vwjo	錡	2
 vwjo	锜	1
