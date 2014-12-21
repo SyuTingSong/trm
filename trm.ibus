@@ -1,16 +1,16 @@
 SCIM_Generic_Table_Phrase_Library_TEXT
-VERSION_50
+VERSION_51
 ### Begin Table definition.
 BEGIN_DEFINITION
 LICENSE = GPL
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
 SERIAL_NUMBER = 20141221
 ICON = ibus-table.svg
-NAME = TianRanMa50
-NAME.zh_CN = 天然码50
-NAME.zh_SG = 天然码50
-NAME.zh_HK = 天然碼50
-NAME.zh_TW = 天然碼50
+NAME = TianRanMa51
+NAME.zh_CN = 天然码51
+NAME.zh_SG = 天然码51
+NAME.zh_HK = 天然碼51
+NAME.zh_TW = 天然碼51
 DESCRIPTION = This is the IME table for TianRanMa
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 AUTHOR = GuangXiN <rek@rek.me>
