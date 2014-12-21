@@ -11,7 +11,7 @@ foreach (prompts() as $key => $char) {
 %chardef|begin
 <?php
 foreach(mb() as list($code, $word, $sort)) {
-    echo "$code\t$word\t$sort\n";
+    echo "$code|$word\n";
 }
 ?>
 %chardef|end

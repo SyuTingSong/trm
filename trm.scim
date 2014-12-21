@@ -3,7 +3,7 @@ VERSION_50
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141220
+SERIAL_NUMBER = 20141221
 #ICON = /usr/share/scim/icons/trm.png
 NAME = TianRanMa50
 NAME.zh_CN = 天然码50
@@ -23682,7 +23682,6 @@ csb	侚	0
 csbg	集成电路	49
 csc5	作威作福	29
 cse	佨	0
-csee		0
 cshw	偬	14
 csjh	集成度	0
 csmu	化验室	3
@@ -24343,6 +24342,7 @@ cxnu	区县	19
 cxo	估	3273
 cxo1	体味	219
 cxo2	体味	219
+cxo5	区号	330
 cxo7	区别	1757
 cxoa	佑	962
 cxok	儾	0
