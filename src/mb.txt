@@ -58014,6 +58014,7 @@ rrm4	怒容	0
 rrma	胬	1
 rrma	怒容	0
 rrmz	双字	0
+rrnh	贴膜	49
 rrnn	贼船	0
 rrns	双胞	0
 rrnx	占上风	67

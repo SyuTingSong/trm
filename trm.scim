@@ -3,7 +3,7 @@ VERSION_51
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141221
+SERIAL_NUMBER = 20141230
 #ICON = /usr/share/scim/icons/trm.png
 NAME = TianRanMa51
 NAME.zh_CN = 天然码51
@@ -58103,6 +58103,7 @@ rrm4	怒容	0
 rrma	胬	1
 rrma	怒容	0
 rrmz	双字	0
+rrnh	贴膜	49
 rrnn	贼船	0
 rrns	双胞	0
 rrnx	占上风	67
