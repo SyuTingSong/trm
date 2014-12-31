@@ -4,7 +4,7 @@ VERSION_52
 BEGIN_DEFINITION
 LICENSE = GPL
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141230
+SERIAL_NUMBER = 20141231
 ICON = ibus-table.svg
 NAME = TianRanMa52
 NAME.zh_CN = 天然码52
@@ -56728,6 +56728,7 @@ r1bn	上映	72
 r1c2	上传	0
 r1cg	上一個	0
 r1cj	上任	598
+r1cx	赋值	0
 r1dd	上的	30820
 r1dj	好事多磨	20
 r1e	姉	1
