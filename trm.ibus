@@ -4,7 +4,7 @@ VERSION_52
 BEGIN_DEFINITION
 LICENSE = GPL
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141231
+SERIAL_NUMBER = 20150129
 ICON = ibus-table.svg
 NAME = TianRanMa52
 NAME.zh_CN = 天然码52
@@ -28892,6 +28892,7 @@ fijy	挤压	168
 fik1	擅长	310
 fikb	提高質量	0
 fikf	拄着	0
+fikj	搞笑	0
 fikk	撤兵	23
 fikk	拄着	0
 fiky	抗美	0
@@ -68724,6 +68725,7 @@ wiro	统战	79
 wirs	统购	14
 wirv	红娘	23
 wis7	變成	0
+wise	红包	0
 wism	統計數字	0
 wit2	红利	18
 witb	變動	0
@@ -70161,6 +70163,7 @@ x1ih	女方	97
 x1ih	土方	26
 x1ih	土族	1
 x1ii	女工	255
+x1io	土豪	45
 x1io	登高	67
 x1it	土话	82
 x1ji	女兵	107
