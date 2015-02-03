@@ -1,4 +1,4 @@
-@version@|天然碼52 Unicode-CJK 20120706
+@version@|天然碼53 Unicode-CJK 20120706
 %selkey|!@#$%^&*()
 %keyname|begin
 0|〇
@@ -7782,8 +7782,8 @@ z|乙
 3m7j|洞察力
 3m8|深
 3m84|澜
-3m86|党校
 3m86|学校
+3m86|党校
 3m8a|浨
 3m8a|泬
 3m8b|栄
@@ -15621,8 +15621,8 @@ z|乙
 8bc2|相传
 8bc5|相位
 8bch|想像
-8bci|相仿
 8bci|相信
+8bci|相仿
 8bcl|相似
 8bco|東歐
 8bd2|查处
@@ -35787,6 +35787,7 @@ hsaa|驚人
 hsb|荀
 hsb8|蕆
 hsc|蓫
+hsc1|忽悠
 hscc|敬仰
 hsch|藏匿
 hscn|敬佩
@@ -59510,11 +59511,11 @@ t23j|不少
 t23j|还手
 t23k|不光
 t23k|科举
+t23m|科学
+t23m|不深
+t23m|利润
 t23m|不觉
 t23m|不溶
-t23m|不深
-t23m|科学
-t23m|利润
 t23n|还没
 t23p|利潤
 t23r|颕

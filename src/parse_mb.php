@@ -6,7 +6,7 @@
  * Time: 下午4:03
  */
 
-$ver = 52;
+$ver = 53;
 
 function prompts() {
     $fp = fopen(__DIR__.DIRECTORY_SEPARATOR.'prompts.txt', 'r');
