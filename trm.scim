@@ -3,7 +3,7 @@ VERSION_52
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20150129
+SERIAL_NUMBER = 20150203
 #ICON = /usr/share/scim/icons/trm.png
 NAME = TianRanMa52
 NAME.zh_CN = 天然码52
@@ -4705,6 +4705,7 @@ BEGIN_TABLE
 2syr	专责	16
 2syu	减去	70
 2syv	减收	3
+2szn	冯超	0
 2t	师	29557
 2t1a	师大	277
 2t1d	冻死	127
@@ -28771,6 +28772,7 @@ fhoa	擹	0
 fhoi	攤	8
 fhov	攙	3
 fhp2	下基层	3
+fhpb	艳阳	0
 fhpi	换防	24
 fhpq	换届	98
 fhpv	下基層	0
@@ -72388,6 +72390,7 @@ y28d	老资格	31
 y28j	选材	9
 y28r	表决权	7
 y28u	赞颂	61
+y28x	款爷	128
 y28x	老天爷	256
 y28z	先进分子	0
 y2a	圤	0
