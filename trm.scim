@@ -1,14 +1,14 @@
 SCIM_Generic_Table_Phrase_Library_TEXT
-VERSION_51
+VERSION_52
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20141230
+SERIAL_NUMBER = 20150203
 #ICON = /usr/share/scim/icons/trm.png
-NAME = TianRanMa51
-NAME.zh_CN = 天然码51
-NAME.zh_HK = 天然碼51
-NAME.zh_TW = 天然碼51
+NAME = TianRanMa52
+NAME.zh_CN = 天然码52
+NAME.zh_HK = 天然碼52
+NAME.zh_TW = 天然碼52
 LANGUAGES = zh_CN,zh_SG,zh_TW,zh_HK
 AUTHOR = GuangXiN <rek@rek.me>
 STATUS_PROMPT = 中
@@ -4705,6 +4705,7 @@ BEGIN_TABLE
 2syr	专责	16
 2syu	减去	70
 2syv	减收	3
+2szn	冯超	0
 2t	师	29557
 2t1a	师大	277
 2t1d	冻死	127
@@ -28771,6 +28772,7 @@ fhoa	擹	0
 fhoi	攤	8
 fhov	攙	3
 fhp2	下基层	3
+fhpb	艳阳	0
 fhpi	换防	24
 fhpq	换届	98
 fhpv	下基層	0
@@ -28908,6 +28910,7 @@ fijy	挤压	168
 fik1	擅长	310
 fikb	提高質量	0
 fikf	拄着	0
+fikj	搞笑	0
 fikk	撤兵	23
 fikk	拄着	0
 fiky	抗美	0
@@ -34088,6 +34091,7 @@ hbbc	遭	6139
 hbbl	亀	0
 hbci	摹仿	97
 hbci	募集	19
+hbdo	莫名	37
 hbdo	慕名	50
 hbem	草帽	202
 hbfh	負擔	0
@@ -56039,6 +56043,7 @@ qj4g	蟠	203
 qj4w	蟋	159
 qj5g	忠于祖国	0
 qj63	螈	3
+qj8k	蟠桃	0
 qj8p	專欄	0
 qj8w	專機	0
 qja	虰	3
@@ -56743,6 +56748,7 @@ r1bn	上映	72
 r1c2	上传	0
 r1cg	上一個	0
 r1cj	上任	598
+r1cx	赋值	0
 r1dd	上的	30820
 r1dj	好事多磨	20
 r1e	姉	1
@@ -68738,6 +68744,7 @@ wiro	统战	79
 wirs	统购	14
 wirv	红娘	23
 wis7	變成	0
+wise	红包	0
 wism	統計數字	0
 wit2	红利	18
 witb	變動	0
@@ -70175,6 +70182,7 @@ x1ih	女方	97
 x1ih	土方	26
 x1ih	土族	1
 x1ii	女工	255
+x1io	土豪	45
 x1io	登高	67
 x1it	土话	82
 x1ji	女兵	107
@@ -72383,6 +72391,7 @@ y28d	老资格	31
 y28j	选材	9
 y28r	表决权	7
 y28u	赞颂	61
+y28x	款爷	128
 y28x	老天爷	256
 y28z	先进分子	0
 y2a	圤	0
