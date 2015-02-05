@@ -35746,6 +35746,7 @@ hsaa	驚人	0
 hsb	荀	49
 hsb8	蕆	10
 hsc	蓫	0
+hsc1	忽悠	0
 hscc	敬仰	104
 hsch	藏匿	106
 hscn	敬佩	227

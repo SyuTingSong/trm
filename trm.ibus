@@ -4,7 +4,7 @@ VERSION_53
 BEGIN_DEFINITION
 LICENSE = GPL
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20150203
+SERIAL_NUMBER = 20150205
 ICON = ibus-table.svg
 NAME = TianRanMa53
 NAME.zh_CN = 天然码53
@@ -35819,6 +35819,7 @@ hsaa	驚人	0
 hsb	荀	49
 hsb8	蕆	10
 hsc	蓫	0
+hsc1	忽悠	0
 hscc	敬仰	104
 hsch	藏匿	106
 hscn	敬佩	227
