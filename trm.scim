@@ -3,7 +3,7 @@ VERSION_53
 ### Begin Table definition.
 BEGIN_DEFINITION
 UUID = 2765513d-52d9-433e-b480-e134d1141a1e
-SERIAL_NUMBER = 20150205
+SERIAL_NUMBER = 20150213
 #ICON = /usr/share/scim/icons/trm.png
 NAME = TianRanMa53
 NAME.zh_CN = 天然码53
@@ -59559,11 +59559,11 @@ t23j	不少	4636
 t23j	还手	123
 t23k	不光	604
 t23k	科举	186
-t23m	不觉	2768
-t23m	不溶	0
+t23m	科学	0
 t23m	不深	164
-t23m	科学	18955
 t23m	利润	361
+t23m	不觉	2768
+t23m	不溶	4287
 t23n	还没	9002
 t23p	利潤	0
 t23r	颕	0
