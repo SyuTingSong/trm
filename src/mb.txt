@@ -71254,8 +71254,8 @@ xmko	索要	91
 xmkt	南北	711
 xmkv	献	4727
 xmkw	發送	0
-xmkx	獼	0
 xmkx	南	32333
+xmkx	獼	32744
 xmky	南美	226
 xmlv	索性	747
 xmlv	真实性	219
