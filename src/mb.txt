@@ -60820,6 +60820,7 @@ tdpt	移民	1059
 tdpx	移居	111
 tdr8	黎巴嫩	262
 tdtb	移動	0
+tdtk	雾霾	0
 tdtz	秋冬季	8
 tduu	移到	972
 tduy	移到	972
