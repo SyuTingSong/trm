@@ -68463,6 +68463,7 @@ wgbb	耷	238
 wgct	细化	19
 wgcx	绘图仪	0
 wgg3	纝	0
+wggd	缩略图	0
 wghg	细菌	411
 wghk	繷	0
 wghp	细节	1355
@@ -69007,6 +69008,7 @@ wmfo	縖	0
 wmfy	牵扯	139
 wmfy	牵挂	280
 wmg4	鴺	0
+wmgd	缩略	0
 wmgw	牵累	17
 wmhc	经典著作	0
 wmic	绝密文件	0
