@@ -60927,6 +60927,7 @@ terz	比翼双飞	0
 tet3	微秒	0
 tete	微微	2576
 tetv	利改税	15
+tetx	微软	0
 tetz	不翼而飞	42
 tews	重要经验	0
 texn	秉直	1
