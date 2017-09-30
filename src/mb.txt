@@ -3862,6 +3862,7 @@
 2fv8	天下为公	11
 2fw1	天下大事	0
 2fxz	坚持真理	17
+2fz1	½	6
 2g1o	兽	1852
 2g25	专职干部	0
 2g3j	临界温度	17
@@ -7830,7 +7831,8 @@
 3mgo	汤圆	75
 3mgw	沉思	966
 3mgw	深思	305
-3mh2	学藉	0
+3mh2	深蓝	0
+3mh2	学藉	102
 3mh2	学期	689
 3mh3	学藉	0
 3mh8	黉	4
@@ -10075,6 +10077,8 @@
 4fsw	发扬成绩	1
 4fwk	精打细算	29
 4fxw	欲擒故纵	32
+4fz1	¼	1
+4fz3	¾	9
 4fzc	数据通信	0
 4fzz	烂摊子	29
 4g	烟	13458
@@ -20933,6 +20937,7 @@ btbf	是不是	8342
 btbn	昆明	266
 btbn	显而易见	227
 btbp	睡眠	539
+btc	฿	22
 btcf	晚秋作物	0
 btci	曤	0
 btci	矐	0
@@ -23275,6 +23280,7 @@ cnt	佩	3474
 cnth	迎刃而解	47
 cnv	仞	45
 cnw	佒	0
+cny	¥	77
 cnyb	优胜者	12
 cnyg	佩戴	0
 co	叵	105
@@ -26453,6 +26459,7 @@ euoo	出口	2160
 euoo	出品	91
 eupm	出院	316
 eupq	出門	0
+eur	€	53
 eurm	出嫁	185
 euro	出战	111
 eut5	出征	150
@@ -31389,6 +31396,7 @@ gbkk	贸易逆差	17
 gbmd	贸易额	40
 gbmg	貫穿	0
 gbo3	贸易中心	71
+gbp	£	39
 gbq3	贸易中心	71
 gbs2	踢	2290
 gbt1	贸易往来	8
@@ -55428,6 +55436,10 @@ py8d	退格	0
 py8d	陵	1210
 py8y	陸	126
 pya	阯	0
+pya1	ā	1
+pya2	á	2
+pya3	ǎ	3
+pya4	à	4
 pyb	屠	1708
 pyb4	鷵	0
 pyba	陼	0
@@ -55439,6 +55451,10 @@ pyct	退化	127
 pyct	退货	20
 pycx	垦区	3
 pydw	陡然	205
+pye1	ē	1
+pye2	é	2
+pye3	ě	3
+pye4	è	4
 pye3	陡峭	100
 pyeu	陡峻	0
 pyeu	退出	1142
@@ -55453,6 +55469,10 @@ pyhb	陵墓	32
 pyhd	退色	20
 pyhi	垦荒	35
 pyhx	隞	0
+pyi1	ī	1
+pyi2	í	2
+pyi3	ǐ	3
+pyi4	ì	4
 pyir	退让	123
 pyix	退离	0
 pyiy	恳请	131
@@ -55466,6 +55486,10 @@ pymf	陸軍	0
 pymj	退守	46
 pymk	陵寝	0
 pymx	局域网	110
+pyo1	ō	1
+pyo2	ó	2
+pyo3	ǒ	3
+pyo4	ò	4
 pyp7	尽责尽力	0
 pyph	随声附和	44
 pypo	退避	69
@@ -55481,7 +55505,15 @@ pytn	恳切	168
 pytn	退役	106
 pytv	退税	26
 pyu	屆	15
+pyu1	ū	1
+pyu2	ú	2
+pyu3	ǔ	3
+pyu4	ù	4
 pyua	阹	0
+pyv1	ǖ	1
+pyv2	ǘ	2
+pyv3	ǚ	3
+pyv4	ǜ	4
 pyvd	除此之外	509
 pyw	恳	1272
 pywm	退缩	182
@@ -73061,6 +73093,7 @@ yejt	堓	0
 yejx	埭	1
 yeme	埽	1
 yemr	埐	0
+yen	¥	77
 yenn	塴	0
 yeor	教导员	51
 yep7	城建局	1
