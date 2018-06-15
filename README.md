@@ -18,6 +18,13 @@ lime格式可以用于Android上的[柠檬输入法](https://code.google.com/p/l
 
 scim格式可以用于Linux上的[SCIM](http://sourceforge.net/projects/scim/)或者[iBus](https://code.google.com/p/ibus/)
 
+txt格式可以用于iOS上的[落格输入法](https://itunes.apple.com/app/apple-store/id1140465593?mt=8)
+
+## 路线图
+
+ * 支持Windows平台
+ * 加入Unicode CJK ext A新增字符支持
+
 ## 版权和专利
 
 三维天然码码表专利已于2009年5月13日失效（专利号 CN95100877.3）。
