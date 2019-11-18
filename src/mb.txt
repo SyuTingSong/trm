@@ -24897,6 +24897,7 @@ ditg	多方面	327
 ditg	各方面	442
 diti	多项式	63
 diun	多功能	82
+div	÷	0
 diyx	各市地	1
 diyy	各市地	1
 dj13	外向型经济	0
@@ -54249,6 +54250,7 @@ peu	屈	3271
 peu4	鶌	0
 pewi	屡建奇功	0
 pezz	刷子	147
+pf	²	0
 pf2u	陆运	9
 pf88	防护林	10
 pf8h	防护林带	1
@@ -61400,6 +61402,7 @@ tilv	復雜性	0
 tim2	车旅费	0
 tim2	稿费	175
 timc	轻诺寡信	1
+time	×	0
 timi	甜言蜜语	135
 tin	秔	0
 tio	稿	4256
