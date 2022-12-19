@@ -6,7 +6,7 @@
  * Time: 下午4:03
  */
 
-$ver = 55;
+$ver = 56;
 if (version_compare(phpversion(), '5.5.0') < 0) {
     echo "PHP engine later than ver 5.5 is required!\n";
 	exit(1);

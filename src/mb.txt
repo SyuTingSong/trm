@@ -69076,8 +69076,8 @@ wm8v	综述	244
 wma	纳	8263
 wmaa	继承人	140
 wmaa	納	54
-wmao	缩合	0
 wmao	综合	1504
+wmao	缩合	6151
 wmaz	纲领	255
 wmb	绾	48
 wmb1	纲目	15
