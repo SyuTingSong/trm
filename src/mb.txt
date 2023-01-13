@@ -15676,8 +15676,8 @@
 8bpq	相關	0
 8bqm	相遇	733
 8br7	相劝	73
-8brj	查对	40
-8brj	相对	4315
+8brj	相对	43
+8brj	查对	4011
 8bro	查点	0
 8bsa	查验	28
 8bsz	相映成趣	19
@@ -21791,6 +21791,7 @@ c8aa	倈	0
 c8au	体会	1479
 c8au	休会	43
 c8b	倲	0
+c8b1	体量	165
 c8b1	份量	165
 c8c1	体例	17
 c8cj	价格体系	10
@@ -45505,8 +45506,8 @@ knvm	前门	203
 knw2	前线	656
 knwc	剪纸	25
 knwd	筋络	0
-knwr	前綫	0
-knwr	前缀	45
+knwr	前缀	99
+knwr	前綫	5113
 knyb	前者	622
 knyh	煎熬	218
 knyi	剪裁	70
@@ -63314,8 +63315,8 @@ txeu	输出	1617
 txf3	轴挡	0
 txf5	连接	1974
 txfd	车把	232
+txfh	转换	43
 txfh	轮换	46
-txfh	转换	1147
 txfj	转播	100
 txfk	连排	0
 txfk	转折	271
