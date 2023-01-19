@@ -30385,8 +30385,8 @@ ftm2	招待费	8
 ftm2	技術骨干	0
 ftm3	持不同看法	0
 ftmc	技術引進	0
-ftmf	擬定	0
-ftmf	指定	2861
+ftmf	指定	28
+ftmf	擬定	61
 ftmi	据不完全统计	32
 ftmj	持否定态度	0
 ftmj	括弧	47
@@ -40256,6 +40256,7 @@ j3ni	水涨船高	15
 j3nu	自治县	2
 j3o	廱	0
 j3oi	癰	0
+j3oo	过滤器	0
 j3pp	廣泛開展	0
 j3pq	应届	21
 j3qy	应由	0
@@ -40980,8 +40981,8 @@ jc2b	过重	160
 jc2j	过于	1587
 jc2w	过头	2301
 jc36	过激	126
-jc3j	过渡	595
 jc3j	过滤	364
+jc3j	过渡	595
 jc3j	过少	48
 jc3k	鹰潭	8
 jc3l	自信心	99
@@ -74902,6 +74903,7 @@ yykk	地地道道	114
 yykk	地質	0
 yyks	地貌	48
 yykx	增收節支	0
+yyky	封装	0
 yyli	幫忙	0
 yylw	奊	0
 yym2	堵塞	132
