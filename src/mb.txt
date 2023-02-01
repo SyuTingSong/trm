@@ -16597,10 +16597,7 @@
 8nco	分區	0
 8nct	分化	249
 8ncv	刺伤	117
-8ncx	頒佈	0
-8ncx	分佈	0
 8ncx	分区	2175
-8ncx	机体	216
 8nd2	分外	313
 8nd7	机务	17
 8ne	岔	663
@@ -55515,8 +55512,8 @@ pye2	é	2
 pye3	ě	3
 pye4	è	4
 pye3	陡峭	100
-pyeu	陡峻	0
 pyeu	退出	1142
+pyeu	陡峻	3798
 pyfh	退换	3
 pyfo	退后	163
 pyfr	退掉	36
