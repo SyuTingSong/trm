@@ -8,4 +8,4 @@ nbproject
 .idea
 rsync.sh
 .settings
-
+/trm.*
