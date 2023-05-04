@@ -41078,7 +41078,8 @@ jckq	底牌	41
 jckt	雁北	3
 jckw	过关	271
 jckx	过半	241
-jckz	乺	0
+jckz	过气	0
+jckz	乺	5
 jcl7	过快	60
 jcll	所以	27411
 jclv	可信性	0
