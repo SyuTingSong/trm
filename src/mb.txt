@@ -6881,7 +6881,8 @@
 3ito	流程	142
 3ito	淤积	61
 3itv	游弋	69
-3itx	江轮	4
+3itx	流转	28
+3itx	江轮	40
 3iu3	流	33181
 3iuk	鎏	12
 3iun	淯	1
@@ -18571,7 +18572,8 @@ alc	兦	0
 alhx	人情世故	41
 alo1	人情味	65
 alo2	人情味	65
-am	及	33909
+am	及	339
+am	㏂	3718
 am2	饧	6
 am31	贪官污吏	63
 am3y	合同法	8
@@ -22243,6 +22245,7 @@ ccy8	佔優勢	0
 ccyo	堅韌	0
 ccz	乬	0
 ccze	竪起	0
+cd	㏅	3116
 cd2	佟	212
 cd2b	偺	3
 cd2o	倃	0
@@ -23157,7 +23160,8 @@ clun	似能	6
 clva	似	33954
 clvx	信以为真	0
 clxn	似有	285
-cm	们	65535
+cm	们	65
+cm	㎝	772
 cm1	伫	311
 cm18	儐	0
 cm1a	伄	0
@@ -24725,6 +24729,7 @@ davc	各个单位	6
 dayc	各个地区	8
 dayi	各个地方	20
 daym	各个地区之间	0
+db	㏈	3111
 db5z	各显神通	24
 dbvd	名目繁多	0
 dc5o	名优新产品	0
@@ -31784,6 +31789,7 @@ ghxn	曲直	28
 ghxo	蹃	0
 ghyb	農場	0
 ghyb	躇	369
+ghz	㎓	7
 ghzz	曲子	526
 gi	圁	0
 gi2j	略高于	1
@@ -36396,6 +36402,7 @@ hyyk	蕘	0
 hyyy	蕋	4
 hyyz	基督教	714
 hz	艺	8628
+hz	㎐	8878
 hz2h	英勇斗争	0
 hz3	荪	46
 hz8v	艺术	4728
@@ -44739,6 +44746,7 @@ kfys	羊城	53
 kfzi	差劲	102
 kfzi	羟	13
 kg	酋	210
+kg	㎏	8140
 kg14	尊严	804
 kg21	尊师	12
 kg22	鄭州	0
@@ -44941,6 +44949,7 @@ khxx	长期存在	0
 khxy	并在	0
 khxz	并存	136
 khyo	欣喜	477
+khz	㎑	3727
 khzi	瓶颈	77
 khzz	瓶子	792
 ki	筑	3105
@@ -45301,7 +45310,8 @@ kly4	兆赫	8
 klyr	逃走	442
 klyr	鼗	1
 klzz	筷子	639
-km	第	62738
+km	第	627
+km	㎞	2627
 km11	第一	21617
 km11	箮	0
 km1c	非军事区	27
@@ -45721,6 +45731,7 @@ kp3j	節省	0
 kp3q	節油	0
 kp4h	節煤	0
 kpa	邤	0
+kpa	㎪	3117
 kpa2	簡介	0
 kpa8	篨	0
 kpb	篃	0
@@ -46067,7 +46078,8 @@ kvxz	普遍真理	14
 kvy	笙	383
 kvyr	斥责	173
 kvzb	前总理	53
-kw	关	65535
+kw	关	635
+kw	㎾	3910
 kw12	送来	0
 kw14	送来	0
 kw1d	送死	61
@@ -47122,6 +47134,7 @@ llx3	怀恨在心	0
 llxm	以南	226
 llyt	以此	1031
 lm	惆	302
+lm	㏐	3112
 lm11	愃	0
 lm1o	恫	92
 lm2	怫	20
@@ -47152,6 +47165,7 @@ lmtx	恽	24
 lmwj	懧	0
 lmyo	惆	302
 ln	忉	0
+ln	㏑	3110
 ln1	怚	0
 lnk	惧	3118
 lnl6	惧怕	295
@@ -47169,6 +47183,7 @@ lo8	怾	0
 lob8	愪	0
 lodl	悒	42
 lodw	愕然	232
+log	㏒	3021
 lon	悁	0
 loo8	懆	0
 loos	愕	683
@@ -48880,7 +48895,8 @@ mfyx	用地	135
 mfyy	用地	135
 mfzb	定理	961
 mfzi	用劲	65
-mg	闻	12764
+mg	闻	2764
+mg	㎎	7377
 mg12	周恩来	800
 mg14	周恩来	800
 mg1o	實事	0
@@ -49036,6 +49052,7 @@ mhxc	内蒙古自治区	31
 mhxo	典故	121
 mhxo	内蒙古	241
 mhxo	內蒙右	0
+mhz	㎒	3822
 mi	空	51192
 mi14	體育事業	0
 mi1o	闹事	205
@@ -49583,6 +49600,7 @@ mok6	问道	3419
 moka	问答	278
 mokw	问卷	45
 moky	强壮	339
+mol	㏖	3291
 molb	强悍	134
 molv	彈性	0
 mom2	强弱	55
@@ -49791,7 +49809,8 @@ mryx	空对地	0
 mryy	空对地	0
 mrzi	网上超市	0
 mrzz	案子	985
-ms	家	65535
+ms	家	38
+ms	㎳	3115
 ms22	闯进	473
 ms3e	家当	306
 ms3m	家常	349
@@ -54349,6 +54368,7 @@ pge	﨩	0
 pgk	隈	15
 pgpy	尽职尽责	17
 pgr	陬	13
+ph	㏗	3119
 ph1b	陥	0
 ph1h	隐形	255
 ph1h	展开	2244
@@ -54659,6 +54679,7 @@ plvt	迟钝	292
 plw4	迟缓	138
 plyr	尽责	47
 plzz	尺子	51
+pm	㏘	3113
 pm1m	尸骨未寒	9
 pm22	院	27351
 pm2m	尸骨未寒	9
@@ -57092,6 +57113,7 @@ ra7o	娢	0
 raav	孅	0
 rac3	如饥似渴	36
 racx	占领区	53
+rad	㎭	3421
 raek	赊帐	0
 raha	赊欠	2
 rahw	上个世纪	0
@@ -59125,6 +59147,7 @@ sh2k	骐	22
 shao	匒	0
 shck	駐華使節	0
 she	驺	17
+shft	⇧	0
 shli	匆忙	672
 shsh	匆匆	1926
 shw	怱	0
@@ -67471,6 +67494,7 @@ vyfi	年增長率	0
 vyfk	生長	0
 vyfs	生物	3449
 vyft	年龄特征	0
+vyg7	甥	250
 vygd	生路	252
 vygd	鐵路	0
 vyi7	生词	16
@@ -76485,4 +76509,27 @@ adn	ₐ 	0
 edn	ₑ 	0
 odn	ₒ 	0
 xdn	ₓ 	0
-
+alph	α	0
+beta	β	0
+gama	γ	0
+dlta	δ	0
+epsl	ε	0
+zeta	ζ	0
+eta	η	0
+thta	θ	0
+iota	ι	0
+kapa	κ	0
+lmbd	λ	0
+mu	μ	0
+nu	ν	0
+xi	ξ	0
+omcr	ο	0
+pi	π	0
+rho	ρ	0
+sigm	σ	0
+tau	τ	0
+upsl	υ	0
+phi	φ	0
+chi	χ	0
+psi	ψ	0
+omga	ω	0
